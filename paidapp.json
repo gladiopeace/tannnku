@@ -1,184 +1,244 @@
 {
-   "apps" : {
-      "1617295922024" : {
-         "appnamee" : "Winterlore I - A folkloric mystery adventure",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/wJ-9z-ESgzsQKfcR0UsfjRSBe65IW8ofcChrtx2BSjwm9m3bIRrNNEELOvQRJiZToQ=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=com.moroisprings.winterlore",
-         "package_name" : "https://play.google.com/store/apps/details?id=com.moroisprings.winterlore",
-         "price" : 2
-      },
-      "1617295947250" : {
-         "appnamee" : "Brain Card Game - Xbar10n",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/rKBgBxLcmYB9pGYfIDUJVxq0tYAEf42Ax2aUK286XzvEjvgMDoTp5GcHlWWgnu30sA=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=com.games.isavasokur.xbar10n",
-         "package_name" : "https://play.google.com/store/apps/details?id=com.games.isavasokur.xbar10n",
-         "price" : 2
-      },
-      "1617295972491" : {
-         "appnamee" : "Premium English Irregular Verbs",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/cDBWNStGDzQyLMrkCGQf0BJwXcBexfiF5D5HqiXCF5s2Dh46d3DWqDtL5ASJFbosgQ=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=com.verb.englishfull",
-         "package_name" : "https://play.google.com/store/apps/details?id=com.verb.englishfull",
-         "price" : 2
-      },
-      "1617295997732" : {
-         "appnamee" : "Brightness Manager - brightness per app manager",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/0JgCgO6umORDtct2uv6pmZ09rLfUxyvs4MY4Nz0ReQsGJ_3ycIDOvMREylaAg4E2aA=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=com.bhanu.brightnessscheduler",
-         "package_name" : "https://play.google.com/store/apps/details?id=com.bhanu.brightnessscheduler",
-         "price" : 2
-      },
-      "1617296023004" : {
-         "appnamee" : "Reminder Pro: To do list, task with Alarm",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/do6pDu6nljqnmr2S6fT2uKm6o0TGajnjqosbkxdS--jaQ397EIEn8mdleRusDsk3bkM=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro",
-         "package_name" : "https://play.google.com/store/apps/details?id=alarm.clock.calendar.reminder.pro",
-         "price" : 2
-      },
-      "1617296048247" : {
-         "appnamee" : "Bird Identifier",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/-N4TvvXrSV7FTqtusgpQO5MABnt8i2mXUjOCoxfI2oy63bgCnpxO62lfz0vGVItXmME=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=com.birdidentification.birdidentifier",
-         "package_name" : "https://play.google.com/store/apps/details?id=com.birdidentification.birdidentifier",
-         "price" : 2
-      },
-      "1617296073487" : {
-         "appnamee" : "Three Kingdoms The Last Warlord",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/lqBLAokD7NITEtHiMUwxrWp1ZttczONWAUFoA5q_wrke0fSKqcTsuPbtuONza87IBm3Y=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=com.longyoug.hmby",
-         "package_name" : "https://play.google.com/store/apps/details?id=com.longyoug.hmby",
-         "price" : 2
-      },
-      "1617296098727" : {
-         "appnamee" : "Amazing Wheels Pro (No ads)",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/OHxUyxwOCLGtfsWLoBIkbJTtfyFnvbbVLhjyUcRzT-B0isZulcD2WODwI6UlQ_Nn5OE=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=net.xnano.android.amazingwheel.tv",
-         "package_name" : "https://play.google.com/store/apps/details?id=net.xnano.android.amazingwheel.tv",
-         "price" : 2
-      },
-      "1617296123966" : {
-         "appnamee" : "Hidden Word Brain Exercise PRO",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/QXQFd72eb26hjMLtewSsUx-_KCgtZtCAK3RLH850ir3euoBGQ2LUYZCk2dlunSoX5Yg=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.hiddenword",
-         "package_name" : "https://play.google.com/store/apps/details?id=air.com.littlebigplay.games.premium.hiddenword",
-         "price" : 2
-      },
-      "1617296149161" : {
-         "appnamee" : "Enchanted Towers: Battle in the Forest",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/s3mYZhUXzmO2BJ37AYnmxa425e2UeCrEOshwtXUs-mVeL47RvN5okYZzLsKHM-5iQB0=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=com.AKStudio.EnchantedTowersBattleintheForest",
-         "package_name" : "https://play.google.com/store/apps/details?id=com.AKStudio.EnchantedTowersBattleintheForest",
-         "price" : 2
-      },
-      "1617296174403" : {
-         "appnamee" : "Rocket Mouse Educational Game",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/U4BTJovp8FdNaM9SG31VjO3a9APOa2sWK9g8lE0vVcCLYobckOWnMM2QtELM0CPvOx0=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=com.sofielafee.RocketMouse",
-         "package_name" : "https://play.google.com/store/apps/details?id=com.sofielafee.RocketMouse",
-         "price" : 2
-      },
-      "1617296199643" : {
-         "appnamee" : "Minesweeper Pro",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/beeOVckmy_IBpbVZA-HzvE-kGXKg4SzDPaguFC5oIWnc3U-BJ_1mlsO2n3Py-hrjRdA=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=mindware.minegamespro",
-         "package_name" : "https://play.google.com/store/apps/details?id=mindware.minegamespro",
-         "price" : 2
-      },
-      "1617296224884" : {
-         "appnamee" : "Tincat Browser Pro - M3U8 Video Download & Cast TV",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/1_EwOC-y0mZwOGGmMiGIomHEpcx8itIifInjeDgNqndMjmpAhtHxDVVLIQZPNa4tXg=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=com.netsky.vfat.pro",
-         "package_name" : "https://play.google.com/store/apps/details?id=com.netsky.vfat.pro",
-         "price" : 2
-      },
-      "1617296250124" : {
-         "appnamee" : "My Movies 3 Pro - Movie & TV Collection Library",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/88f9P_Hjvzg42ITD02bfo2acyRebcGYglInDYOJYWHyjd2IosvrOZpIp0COTzWq0d_8=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=dk.mymovies.mymovies3forandroidpro",
-         "package_name" : "https://play.google.com/store/apps/details?id=dk.mymovies.mymovies3forandroidpro",
-         "price" : 2
-      },
-      "1617296275367" : {
-         "appnamee" : "GION - Icon Pack (FREE for a limited time!!!)",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/KPJ0QWKKK5HrXKh-ri3T3Oap2YP9NEPExVolk8u32ZR1racMHSTLZVme5DXRAhrAH9h_=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=com.lknniex.gion",
-         "package_name" : "https://play.google.com/store/apps/details?id=com.lknniex.gion",
-         "price" : 2
-      },
-      "1617296300592" : {
-         "appnamee" : "Elements Live Wallpaper",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/-qUHIEKxW2Yx4JSZM07yuWtI2_Ucgiv4JmbnI55TtT7QLpux3UGc_vA8eu1AE3aTqcKz=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=cdev.elements",
-         "package_name" : "https://play.google.com/store/apps/details?id=cdev.elements",
-         "price" : 2
-      },
-      "1617296325801" : {
-         "appnamee" : "Bubbles Live Wallpaper",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/JqwUWoxLlPxt6YsbADqNCKUZxT5-vXNR2frotRbJ6oFq7rgeMLpqZZVB6KYKvrQwLMU=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=cdev.bubbles",
-         "package_name" : "https://play.google.com/store/apps/details?id=cdev.bubbles",
-         "price" : 2
-      },
-      "1617296351044" : {
-         "appnamee" : "Lines Live Wallpaper",
-         "daily_limit" : 50,
-         "days_to_keep_app" : 604800,
-         "desc" : "",
-         "image" : "https://play-lh.googleusercontent.com/cjE1N1nNPfSLGYP1-_CufCKmE872brgzYCBdISrcGhrisDb65qZqFWQSiZb85e02z4E=s180-rw",
-         "link" : "https://play.google.com/store/apps/details?id=cdev.lines",
-         "package_name" : "https://play.google.com/store/apps/details?id=cdev.lines",
-         "price" : 2
-      }
-   }
+  "apps" : {
+    "1623603445877" : {
+      "appnamee" : "amit",
+      "daily_limit" : 15,
+      "days_to_keep_app" : 604800,
+      "desc" : "jfdju",
+      "image" : "gegju",
+      "link" : "https://play.google.com/store/apps/details?id=j trhut",
+      "package_name" : "j trhut",
+      "price" : 2
+    },
+    "1623603447445" : {
+      "appnamee" : "amit",
+      "daily_limit" : 15,
+      "days_to_keep_app" : 604800,
+      "desc" : "jfdju",
+      "image" : "gegju",
+      "link" : "https://play.google.com/store/apps/details?id=j trhut",
+      "package_name" : "j trhut",
+      "price" : 2
+    },
+    "1623603448409" : {
+      "appnamee" : "amit",
+      "daily_limit" : 15,
+      "days_to_keep_app" : 604800,
+      "desc" : "jfdju",
+      "image" : "gegju",
+      "link" : "https://play.google.com/store/apps/details?id=j trhut",
+      "package_name" : "j trhut",
+      "price" : 2
+    },
+    "1623603449636" : {
+      "appnamee" : "amit",
+      "daily_limit" : 15,
+      "days_to_keep_app" : 604800,
+      "desc" : "jfdju",
+      "image" : "gegju",
+      "link" : "https://play.google.com/store/apps/details?id=j trhut",
+      "package_name" : "j trhut",
+      "price" : 2
+    },
+    "1624175807753" : {
+      "appnamee" : "Last Day Survivors ( zombie shooter TDS )",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/4eaLPm1e7qCsbplZO4XQaztKZEZb-wq6BtLyCAt9DenWLQD5fGmRsyyVMPTUCdbllA=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=rogames.lds",
+      "package_name" : "https://play.google.com/store/apps/details?id=rogames.lds",
+      "price" : 2
+    },
+    "1624175818159" : {
+      "appnamee" : "Last Day Survivors ( zombie shooter TDS )",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/4eaLPm1e7qCsbplZO4XQaztKZEZb-wq6BtLyCAt9DenWLQD5fGmRsyyVMPTUCdbllA=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=rogames.lds",
+      "package_name" : "https://play.google.com/store/apps/details?id=rogames.lds",
+      "price" : 2
+    },
+    "1624175875036" : {
+      "appnamee" : "New Math Puzzles 2021 PRO",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/Y3jtXcM7K4UrviMCgJM_DCTqcf70H4gmkRL9_em34P845exMaHgFZk6OauQgayEY2Q=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.bederaskar.mathpuzzlespro",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.bederaskar.mathpuzzlespro",
+      "price" : 2
+    },
+    "1624175901663" : {
+      "appnamee" : "Dino shooting 3D - dinosaur hunting game",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/VU8ag6FvH4oST47aSHSxT76Pq75Dm3JNLW-v_ZhDcEMe5cFxqrNkXa3C7YpqBMDVTks=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.arsalgames.dinoshooting",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.arsalgames.dinoshooting",
+      "price" : 2
+    },
+    "1624175928307" : {
+      "appnamee" : "Neon Beats | Musical AMOLED Game",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/PB67FN9ouRkOWLNLKGU9IZBvc5AhqEGA2haR3RMR1IaBRsyG6iSL-xRv_2UVwz6i-QM=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.QuanticBit.NeonBeats",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.QuanticBit.NeonBeats",
+      "price" : 2
+    },
+    "1624175954988" : {
+      "appnamee" : "Upping Floors | Stack the blocks",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/voDYTG7kHGDg11J4MD4zu3qDmklYavXEiMmpjrEFGC4z0GDYgtw99nuhC4V7bv4judkd=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.QuanticBit.UppingFloors",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.QuanticBit.UppingFloors",
+      "price" : 2
+    },
+    "1624175981675" : {
+      "appnamee" : "Flappy Floor | Bird Game",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/0NvvBKBI9opPHVnrtoRUtapvQ1R2f2IiJZFWlo7W6-dhJwjEKrbcYB9IdAkCzNpIkV67=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.QuanticBit.FlappyFloor",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.QuanticBit.FlappyFloor",
+      "price" : 2
+    },
+    "1624176008274" : {
+      "appnamee" : "Flyre",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/Kvre2Q5UjUwdg5cFu-HARdTz09oh6Qt_wtSDW2Nb40MP2MjcJREbeajV-XCKBtgJ_K4=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.QuanticBit.Flyre",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.QuanticBit.Flyre",
+      "price" : 2
+    },
+    "1624176034998" : {
+      "appnamee" : "Hex Particles 3D Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/m521Kkv7BQ5yGKA7aVntlVEehDfnmR4COGM6uLolIrb0tar5e6sdOrFK68IUdDOBYQ=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.hex.particles",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.hex.particles",
+      "price" : 2
+    },
+    "1624176061673" : {
+      "appnamee" : "Infinite Cubes Particles 2 3D Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/rzPPbY25yZ3tjxRQ9-IghmElP1a_qt33tSf3osUQx2xFWHtFutRiuyneBLmzgn10HeAm=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.Infinite.space",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.Infinite.space",
+      "price" : 2
+    },
+    "1624176088364" : {
+      "appnamee" : "Digital Rain 3D Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/OzuFjlnSmtlTSoP3lAkp-BfkH_xGhEqgALiontSc0X91_Mr3Odavd2BboNxnRI_bQqU=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.Digital.Rain",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.Digital.Rain",
+      "price" : 2
+    },
+    "1624176115010" : {
+      "appnamee" : "Infinite Particles 3D Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/spVRbtiG3I2cHbJCWg5FGOkqv8r_S5ydnspxnIg0zL8qThakVXZl9bG2XqVOgxJKnA=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.Digital.Particles",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.Digital.Particles",
+      "price" : 2
+    },
+    "1624176141674" : {
+      "appnamee" : "Particle Molecules 3D Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/OCR1uVzvCGYBetQVnZ-vt5Wc9rQKiFCjPZuGytV-IWRqss-AdvXRGxmm-9eMzEw6bhc=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=om.Molecules.Particles",
+      "package_name" : "https://play.google.com/store/apps/details?id=om.Molecules.Particles",
+      "price" : 2
+    },
+    "1624176168331" : {
+      "appnamee" : "Particle Cells & Molecules 3D Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/yY45eTNTm_k25SLg_z9sSGXiFhWSDXUb2ANrMahQgamJmaCvntlo0V8mcyFQTvelQyU=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.Molecules.Cells",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.Molecules.Cells",
+      "price" : 2
+    },
+    "1624176194995" : {
+      "appnamee" : "Infinite Cubes Particles 3D Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/UnsbKHmz-46ZEGg7QpzVUAcccxp6AF269OF4CnJ8x_Dc9Cc2p2en2jmZFfrSRyxRds4=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.infinite.cubes",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.infinite.cubes",
+      "price" : 2
+    },
+    "1624176221671" : {
+      "appnamee" : "Plexus Matrix Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/0uaY-JL9S3OFaUSTkOgaqI3k7tBM3SvxmadHF8et78KViE8xB7nPe4bM1WLwUmJbZw=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.Matrix.Matrix",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.Matrix.Matrix",
+      "price" : 2
+    },
+    "1624176248378" : {
+      "appnamee" : "Magic One Ring Parallax 3D Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/A9AkdCzAGpzngrOCp6KKXZ3Izu0Cd95vI6YbxksYwDM8_EniV1SqXrIczgOIeWuP5Q=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.parallax.magic.ring",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.parallax.magic.ring",
+      "price" : 2
+    },
+    "1624176275069" : {
+      "appnamee" : "3D Abstract Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/J-eBsoggpEHojLqRmgilaGu1300MJRPlTsVdXxTjyF25lgysW3RQK3vbDsIlm1SEiDA=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.Abstract.Geometry",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.Abstract.Geometry",
+      "price" : 2
+    },
+    "1624176301745" : {
+      "appnamee" : "Earth & Moon Parallax 3D Live Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/K-Swak29AR7NHXx48YWyoejdBzxL583TKa5FuL6U2BTA-uyDDryaVWC8oDwNtj6ZMgs=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.Earth.Constellations",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.Earth.Constellations",
+      "price" : 2
+    },
+    "1624176328469" : {
+      "appnamee" : "Fireflies 3D Live Wallpaper",
+      "daily_limit" : 50,
+      "days_to_keep_app" : 604800,
+      "desc" : "",
+      "image" : "https://play-lh.googleusercontent.com/xzWdKvu1nQM7Jpayvc9ym-_zZDr0WKtQWrTnSAc29HBfQxsENs_-C6fd87MGFQV9g8M=s180-rw",
+      "link" : "https://play.google.com/store/apps/details?id=com.fireflies.moths",
+      "package_name" : "https://play.google.com/store/apps/details?id=com.fireflies.moths",
+      "price" : 2
+    }
+  }
 }
