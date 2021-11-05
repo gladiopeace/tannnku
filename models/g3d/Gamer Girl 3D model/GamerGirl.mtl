@@ -1,0 +1,94 @@
+# Blender MTL File: 'GamerGirl.blend'
+# Material Count: 8
+
+newmtl AsianGirl
+Ns 288.500159
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump E:\\blender\\Sculpts\\AsianGirl\\AsianGirlSkin\\AsianGirlSkin_AsianGirl_NormalOpenGL.png
+map_Kd E:\\blender\\Sculpts\\AsianGirl\\AsianGirlSkin\\AsianGirlSkin_AsianGirl_Diffuse.png
+map_Ns E:\\blender\\Sculpts\\AsianGirl\\AsianGirlSkin\\AsianGirlSkin_AsianGirl_Roughness.png
+
+newmtl Controller
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl EyesGreen
+Ns 533.609994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump Eyes\\EyesNorm.jpg
+refl Eyes\\EyesTransparent.jpg
+
+newmtl Hair.001
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl HairCards
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.094626 0.035205 0.023797
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_d E:\\blender\\Sculpts\\AsianGirl\\HairsAlphaGamerGirl.png
+
+newmtl Pants
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.771671 0.280096 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump PantsGamerGirl\\PantsGamerGirl_Pants_NormalOpenGL.png
+map_Kd PantsGamerGirl\\PantsGamerGirl_Pants_Diffuse.png
+map_Ns PantsGamerGirl\\PantsGamerGirl_Pants_Roughness.png
+
+newmtl ShirtGamerGirl
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump ShirtGamerGirl\\ShirtGamerGirl_ShirtGamerGirl_NormalOpenGL.png
+map_Kd ShirtGamerGirl\\ShirtGamerGirl_ShirtGamerGirl_Diffuse.png
+map_Ns ShirtGamerGirl\\ShirtGamerGirl_ShirtGamerGirl_Roughness.png
+
+newmtl headphones
+Ns 323.999994
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
